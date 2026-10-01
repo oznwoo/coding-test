@@ -19,6 +19,7 @@ src/
 │   │   ├── kth_number/               # K번째수
 │   │   └── biggest_number/           # 가장 큰 수
 │   └── dfsbfs/
+│       ├── target_number/            # 타겟 넘버
 │       ├── game_map_shortest_path/   # 게임 맵 최단거리
 │       └── word_conversion/          # 단어 변환
 └── practice/       # 문법 테스트 등 자유 연습용 sandbox (Scratch.java)
